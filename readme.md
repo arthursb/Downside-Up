@@ -1,0 +1,1 @@
+Supplementary Material for paper titled "Evaluating the Use of Affordable User Testing and Visualization Techniques in Level Design of a Hardcore 2D Platform Game"
